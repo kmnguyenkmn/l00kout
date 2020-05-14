@@ -5,7 +5,7 @@ Old Repo:  https://github.com/kmnguyenkmn/l00king_out
 #### Group project for Innovation and Entrepeneurship class at FHSU. Concept/idea of the app belongs to my classmate, Michael Malone.
 
 ##### Fort Hays State University
-##### INF 430 Technology & Entrepreneurial Leadership
+##### INF 430 Technology & Entrepreneurial Leadership Team Mates:
 
 -	Michael Malone
 -	Jerry Gordon
