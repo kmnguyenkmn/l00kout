@@ -14,19 +14,17 @@ Old Repo:  https://github.com/kmnguyenkmn/l00king_out
 -	Myself (Kim Nguyen
 
 
-#### Reference/Credits:
+#### Reference/Credits/Inspirations:
 - Brad Traversy (https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - Florin Pop (https://youtu.be/mUdo6w87rh4)
 - Michelle Lim (https://medium.com/@limichelle21/integrating-google-maps-api-for-multiple-locations-a4329517977a)
 - Dev Ed
+- Web Dev Simplified
 
 ##### Image Credits (these are free to use, however, I would like to provide reference and credit for them as well):
--	https://pixabay.com/photos/business-lady-woman-girl-computer-3560920/
--	https://pixabay.com/photos/businessman-man-portrait-male-805769/
--	https://pixabay.com/photos/electronics-hands-mobile-phone-1851218/
--	https://pixabay.com/photos/office-business-colleagues-meeting-1209640/
--	https://pixabay.com/photos/team-team-building-success-computer-3373638/
--	https://pixabay.com/photos/corporate-office-work-city-863694/
--	https://pixabay.com/photos/office-freelancer-computer-business-625892/
--	https://pixabay.com/photos/agreement-brainstorming-business-3546008/
+Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Pixabay</a>
+
+Image by <a href="https://pixabay.com/users/889520-889520/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2284501">Malachi Witt</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2284501">Pixabay</a>
+
+Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=919048">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=919048">Pixabay</a>
 
