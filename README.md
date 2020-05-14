@@ -18,8 +18,10 @@ Old Repo:  https://github.com/kmnguyenkmn/l00king_out
 - Brad Traversy (https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - Florin Pop (https://youtu.be/mUdo6w87rh4)
 - Michelle Lim (https://medium.com/@limichelle21/integrating-google-maps-api-for-multiple-locations-a4329517977a)
+- Dark Code (https://www.youtube.com/watch?v=zkyIVFoLxgY&list=WL)
 - Dev Ed
 - Web Dev Simplified
+- Rik Lomas (https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483)
 
 ##### Image Credits (these are free to use, however, I would like to provide reference and credit for them as well):
 Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Pixabay</a>
