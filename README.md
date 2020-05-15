@@ -11,7 +11,7 @@ Old Repo:  https://github.com/kmnguyenkmn/l00king_out
 -	Jerry Gordon
 -	Janeth Soto-Lara
 -	Stuart Yearout
--	Myself (Kim Nguyen
+-	Myself (Kim Nguyen)
 
 
 #### Reference/Credits/Inspirations:
@@ -22,6 +22,7 @@ Old Repo:  https://github.com/kmnguyenkmn/l00king_out
 - Dev Ed
 - Web Dev Simplified
 - Rik Lomas (https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483)
+- Robert of PunchSalad (https://punchsalad.com/tutorials/embed-youtube-video/)
 
 ##### Image Credits (these are free to use, however, I would like to provide reference and credit for them as well):
 Image by <a href="https://pixabay.com/photos/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Pixabay</a>
