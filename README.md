@@ -28,3 +28,7 @@ Old Repo:  https://github.com/kmnguyenkmn/l00king_out
 Image by <a href="https://pixabay.com/users/free-photos-242387/">Free-Photos</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1245776">Pixabay</a>
 
 Image by <a href="https://pixabay.com/users/889520-889520/">Malachi Witt</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2284501">Pixabay</a>
+
+Image by <a href="https://pixabay.com/users/khademalqubaisi-1109872/>Khadem Al-Qubaisi</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=805769">Pixabay</a>
+
+Image by <a href="https://pixabay.com/users/nastya_gepp-3773230/">Anastasia Gepp</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3560920">Pixabay</a>
