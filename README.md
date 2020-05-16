@@ -13,14 +13,12 @@ Old Repo:  https://github.com/kmnguyenkmn/l00king_out
 -	Stuart Yearout
 -	Myself (Kim Nguyen)
 
-
 #### Reference/Credits/Inspirations:
 - Brad Traversy (https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - Florin Pop (https://youtu.be/mUdo6w87rh4)
 - Michelle Lim (https://medium.com/@limichelle21/integrating-google-maps-api-for-multiple-locations-a4329517977a)
-- Dark Code (https://www.youtube.com/watch?v=zkyIVFoLxgY&list=WL)
-- Dev Ed
-- Web Dev Simplified
+- Dev Ed (https://www.youtube.com/watch?v=gXkqy0b4M5g&t=1467s)
+- Web Dev Simplified (https://www.youtube.com/watch?v=At4B7A4GOPg)
 - Rik Lomas (https://medium.com/@riklomas/how-to-create-a-simple-jobs-board-in-ruby-on-rails-even-if-youve-never-coded-before-9b296c4df483)
 - Robert of PunchSalad (https://punchsalad.com/tutorials/embed-youtube-video/)
 
