@@ -1,0 +1,419 @@
+/* Google Fonts - Raleway Import*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Styling */
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+h2, h3 {
+  font-weight: 400;
+  line-height: 1;
+}
+
+p {
+  margin: 10px 0;
+}
+
+img {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #ddd;
+}
+
+a:hover {
+  color: #fff;
+  transition: 2s ease-in;
+}
+
+.bg-primary {
+  background-color: #738A9D;
+  color: #eee;
+}
+
+.bg-secondary {
+  background-color: #314b5c;
+  color: #eee;
+}
+
+.bg-inline {
+  background-color: #333;
+  color: #eee;
+}
+
+/* Header Hero */
+.hero {
+  background: url('../images/community.jpg') no-repeat center center/cover;
+  height: 100vh;
+  position: relative;
+  color: #eee;
+}
+
+.hero .content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  padding: 0 20px;
+}
+
+.hero .content h2 {
+  font-size: 50px;
+}
+
+.hero .content p {
+  font-size: 25px;
+  max-width: 600px;
+  margin: 20px 0 30px;
+}
+
+/* About - Icons */
+.icons {
+  padding: 30px;
+}
+
+.icons h3 {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.icons i {
+  background-color: #314b5c;
+  color: #eee;
+  padding: 16px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+
+/* Flex Items */
+.flex-items {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 25px;
+}
+
+.flex-items > div {
+  margin: 15px;
+  padding: 20px;
+}
+
+/* Flex Columns */
+.flex-columns.flex-reverse .row {
+  flex-direction: row-reverse;
+}
+
+.flex-columns .row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.flex-columns .column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+.flex-columns .column .column-1,
+.flex-columns .column .column-2 {
+  height: 100%;
+}
+
+.flex-columns img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.flex-columns .column-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 20px;
+}
+
+.flex-columns h2 {
+  font-size: 30px;
+  font-weight: 100;
+}
+
+.flex-columns h4 {
+  margin-bottom: 5px;
+}
+
+.flex-columns p {
+  margin: 10px 0;
+}
+
+/* Sections */
+.section-header {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.section-header h2 {
+  font-size: 35px;
+  margin: 15px 0;
+}
+
+.section-padding {
+  padding: 15px 15px 30px;
+}
+
+/* Logo */
+.logo {
+  margin: 1em;
+  letter-spacing: 0.25em;
+  font-weight: bolder;
+}
+
+/* Navigation */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #314b5c;
+  color: #eee;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar-links ul {
+  display: flex;
+}
+
+.navbar-links li {
+  list-style: none;
+}
+
+.navbar-links a {
+  padding: 1rem;
+  display: block;
+}
+
+.navbar-links li:hover {
+  background-color: #516d85;
+  transition: 2s ease-out;
+}
+
+/* Toggle Button */
+.toggle-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 21px;
+}
+
+.toggle-button .bar {
+  height: 3px;
+  width: 100%;
+  background-color: #eee;
+  border-radius: 10px;
+}
+
+/* About Product iFrame */
+.iframe-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 55%;
+}
+
+.about-product {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #314b5c;
+}
+
+/* Testimonials */
+.testimonials img {
+  border-radius: 65%;
+}
+
+
+/* Form Button */
+.btn {
+  cursor: pointer;
+  display: inline-block;
+  padding: 14px 16px;
+  color: #eee;
+  background-color: #516d85;
+  border: 0.5px solid #eee;
+  font-family: 'Raleway', sans-serif;
+}
+
+.btn:hover {
+  background-color: #738A9D;
+  transition: 2s ease-in-out;
+}
+
+/* Contact Form*/
+.contact img {
+  width: 100%;
+}
+
+.contact-form {
+  width: 100%;
+  padding: 16px 0;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.contact-form .form-control {
+  margin-bottom: 15px;
+}
+
+.contact-form input {
+  width: 100%;
+  padding: 5px;
+  height: 40px;
+  border: #314b5c 1px solid;
+}
+
+.contact-form textarea {
+  width: 100%;
+  padding: 5px;
+  height: 150px;
+}
+
+/* Registration & Sign Up */
+.register img {
+  width: 100%;
+}
+
+.inline-form {
+  width: 100%;
+  padding: 16px 0;
+}
+
+.inline-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.inline-form .form-control {
+  margin-bottom: 25px;
+}
+
+.inline-form input {
+  width: 100%;
+  padding: 10px;
+  height: 50px;
+  border: #314b5c 1px solid;
+}
+
+
+/* Footer */
+.footer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 1vh;
+  color: #eee;
+  background-color: #314b5c;
+  opacity: 0.9;
+}
+
+.footer .footer-social > * {
+  margin-right: 20px;
+}
+
+.footer i:hover {
+  color: #fff;
+  transition: 2s ease-out;
+}
+
+
+/* Media Queries */
+@media (max-width: 768px) {
+  
+  /* Toggle Button */
+  .toggle-button {
+    display: flex;
+  }
+
+  /* Navigation */
+  .navbar-links {
+    display: none;
+    width: 100%;
+  }
+
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .navbar-links ul {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .navbar-links li {
+    text-align: center;
+  }
+
+  .navbar-links li a {
+    padding: .5rem 1rem;
+  }
+
+  .navbar-links.active {
+    display: flex;
+  }
+
+  /* Flex Items */
+  .flex-items {
+    flex-direction: column;
+  }
+
+  /* Flex Columns, Columns, Rows*/  
+  .flex-columns .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+  /* Testimonials */
+  .testimonials img {
+    width: 70%;
+  }
+}
