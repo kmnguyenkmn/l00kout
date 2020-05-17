@@ -2,6 +2,8 @@
 L00KingOut V2 - didn't want to delete the old repo, so I decided to just create another one.<br>
 Old Repo:  https://github.com/kmnguyenkmn/l00king_out
 
+### Demo portion is currently under construction. I am working on creating it and deploying it via Ruby on Rails or create it with JavaScript and Firebase. Will update once completed.
+
 #### Group project for Innovation and Entrepeneurship class at FHSU. Concept/idea of the app belongs to my classmate, Michael Malone.
 
 ##### Fort Hays State University
